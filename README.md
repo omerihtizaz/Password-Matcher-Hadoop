@@ -62,12 +62,6 @@ To use this password cracker, follow the instructions provided in the [How to Ru
 3. Ensure you have a `shadow.txt` file containing the necessary information.
 4. Run the executable with appropriate permissions.
 
-## Contributors
-
-- Aleezeh Usman (18I-0529)
-- Areesha Tahir (18I-1655)
-- Faaira Ahmed (18I-0423)
-- Omer Ihtizaz (18I-0404)
 
 ## License
 
